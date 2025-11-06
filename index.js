@@ -1,3 +1,5 @@
+// My Page (or Mini Portfolio)
+
 var http = require("http"); 
 const port = 8000; 
 
@@ -12,7 +14,7 @@ http.createServer(function(req, res) {
 
                 <body style="text-align: center; font-family: Arial, Helvetica, sans-serif;">
                     <section style="padding: 3px;">
-                        <h1>My Mini Portfolio (V1)</h1>
+                        <h1>My Mini Portfolio</h1>
                         <p>Here you will see my coding progress... hopefully.</p>
                     </section>
                     <section style="padding: 3px;">

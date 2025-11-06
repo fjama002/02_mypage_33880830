@@ -1,11 +1,19 @@
 {
   "name": "02_mypage_33880830",
   "version": "1.0.0",
-  "description": "",
+  "description": "A very small node.js web application.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fatimahjam/02_mypage_33880830.git"
+  },
+  "bugs": {
+    "url": "https://github.com/fatimahjam/02_mypage_33880830/issues"
+  },
+  "homepage": "https://github.com/fatimahjam/02_mypage_33880830#readme"
 }
